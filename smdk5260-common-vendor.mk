@@ -443,12 +443,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/liblvvetx_3.20.03.so:system/vendor/lib/liblvvetx_3.20.03.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/hl3g/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
-    vendor/samsung/hl3g/proprietary/lib/libatparser.so:system/lib/libatparser.so \
-    vendor/samsung/hl3g/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/hl3g/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-    vendor/samsung/hl3g/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/hl3g/proprietary/lib/libutils.so:system/lib/libutils.so \
-    vendor/samsung/hl3g/proprietary/app/FixAudio/FixAudio.apk:system/app/FixAudio/FixAudio.apk \
-    vendor/samsung/hl3g/proprietary/etc/init.d/FixAudio:system/etc/init.d/FixAudio
+    vendor/samsung/smdk5260-common/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libutils.so:system/lib/libutils.so \
+    vendor/samsung/smdk5260-common/proprietary/app/FixAudio/FixAudio.apk:system/app/FixAudio/FixAudio.apk \
+    vendor/samsung/smdk5260-common/proprietary/etc/init.d/FixAudio:system/etc/init.d/FixAudio
     
